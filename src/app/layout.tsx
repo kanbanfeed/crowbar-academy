@@ -50,7 +50,7 @@ export default function RootLayout({
           </span>
         </p>
         <p className="text-xs text-slate-500">
-          © 2024 Crowbar Academy. All rights reserved.
+          © 2025 Crowbar Academy. All rights reserved.
         </p>
       </div>
 
