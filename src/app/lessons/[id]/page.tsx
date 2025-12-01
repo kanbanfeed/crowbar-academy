@@ -82,7 +82,7 @@ export default async function LessonDetailPage({ params }: Params) {
             ← Back to all lessons
           </Link>
           <Link
-            href="https://crowbar.app/dashboard" // TODO: real URL
+            href="https://www.crowbarltd.com/dashboard" // TODO: real URL
             className="rounded-full border border-slate-800 px-3 py-1.5 text-xs font-medium hover:border-indigo-500 hover:bg-indigo-500/10"
           >
             Back to Crowbar dashboard
